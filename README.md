@@ -4,4 +4,4 @@ This is my first Git Repository.
 <This is my first Git and GitHub Demo>
 Author-Prachi Shinde
 # Student
-Prachi Shinde
+Prachi .M. Shinde
