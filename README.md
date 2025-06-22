@@ -5,3 +5,9 @@ This is my first Git Repository.
 Author-Prachi Shinde
 # Student
 Prachi .M. Shinde
+
+# Teacher
+Shraddha
+
+# Student
+Prachi Shinde
